@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>wiki.nixos.org.1.0</namespace>
+    <virtualFolder>wiki</virtualFolder>
+    <customFilter name="My Application 1.0">
+        <filterAttribute>myapp</filterAttribute>
+        <filterAttribute>1.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>myapp</filterAttribute>
+        <filterAttribute>1.0</filterAttribute>
+        <toc>
+			<section title="wiki - Main_Page" ref="wiki/Main_Page.html">
+
+<section title="Getting_started_.28Manuals.29" ref="wiki/Main_Page.html#Getting_started_.28Manuals.29"/>
+<section title="Installation" ref="wiki/Main_Page.html#Installation"/>
+<section title="Physical_Machine" ref="wiki/Main_Page.html#Physical_Machine"/>
+<section title="Virtual_Machine" ref="wiki/Main_Page.html#Virtual_Machine"/>
+<section title="Hosting_Providers" ref="wiki/Main_Page.html#Hosting_Providers"/>
+<section title="Platforms" ref="wiki/Main_Page.html#Platforms"/>
+<section title="Using_Nix" ref="wiki/Main_Page.html#Using_Nix"/>
+<section title="Package_Management" ref="wiki/Main_Page.html#Package_Management"/>
+<section title="Issues" ref="wiki/Main_Page.html#Issues"/>
+<section title="Terms" ref="wiki/Main_Page.html#Terms"/>
+<section title="Using_NixOS" ref="wiki/Main_Page.html#Using_NixOS"/>
+<section title="Configuration_Files_for_Hardware" ref="wiki/Main_Page.html#Configuration_Files_for_Hardware"/>
+<section title="Advanced_Configuration" ref="wiki/Main_Page.html#Advanced_Configuration"/>
+<section title="Contributing_to_Nix_Projects" ref="wiki/Main_Page.html#Contributing_to_Nix_Projects"/>
+<section title="Documentation.2C_Development.2C_Design.2C_and_Architecture" ref="wiki/Main_Page.html#Documentation.2C_Development.2C_Design.2C_and_Architecture"/>
+<section title="Wiki_pages" ref="wiki/Main_Page.html#Wiki_pages"/>
+<section title="How-tos" ref="wiki/Main_Page.html#How-tos"/>
+<section title="Languages" ref="wiki/Main_Page.html#Languages"/>
+<section title="Hardware" ref="wiki/Main_Page.html#Hardware"/>
+<section title="Virtualisation" ref="wiki/Main_Page.html#Virtualisation"/>
+<section title="Software" ref="wiki/Main_Page.html#Software"/>
+<section title="Services" ref="wiki/Main_Page.html#Services"/>
+<section title="Licenses" ref="wiki/Main_Page.html#Licenses"/>
+<section title="Events" ref="wiki/Main_Page.html#Events"/>
+<section title="Meta_.2F_Developer_Chat" ref="wiki/Main_Page.html#Meta_.2F_Developer_Chat"/>
+<section title="Branding.2C_T-shirts.2C_Stickers_and_other_swag" ref="wiki/Main_Page.html#Branding.2C_T-shirts.2C_Stickers_and_other_swag"/>
+<section title="Third-Party_Talk" ref="wiki/Main_Page.html#Third-Party_Talk"/>
+
+
+            </section>
+		</toc>
+        <files>
+			<file>wiki/*.css</file>
+			<file>wiki/*.html</file>
+        </files>
+    </filterSection>
+</QtHelpProject>

@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+pre {
+  padding: 1em;
+  border: 1px solid #ddd;
+  color: black;
+  background-color: #f9f9f9
+}
+
+#toc {
+  visibility: hidden;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>nixos.options.1.0</namespace>
+    <virtualFolder>options</virtualFolder>
+    <customFilter name="My Application 1.0">
+        <filterAttribute>myapp</filterAttribute>
+        <filterAttribute>1.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>myapp</filterAttribute>
+        <filterAttribute>1.0</filterAttribute>
+        <toc>
+			<section title="Options search" ref="options-search/options.html"/>
+		</toc>
+        <files>
+			<file>options-search/*.css</file>
+			<file>options-search/*.html</file>
+			<file>options-search/*.js</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
